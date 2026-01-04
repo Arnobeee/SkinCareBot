@@ -1,0 +1,50 @@
+[
+    {
+        "brand": "Eva Skin Clinic",
+        "name": "Hyaluronic Acid Night Cream",
+        "type": "Moisturizer",
+        "skin_type": "Dry",
+        "benefits": "ترطيب عميق وتقليل الخطوط الرفيعة",
+        "price_range": "Medium"
+    },
+    {
+        "brand": "La Roche-Posay",
+        "name": "Effaclar Duo",
+        "type": "Treatment",
+        "skin_type": "Oily/Acne-prone",
+        "benefits": "علاج الحبوب وآثارها ومنع انسداد المسام",
+        "price_range": "High"
+    },
+    {
+        "brand": "Vichy",
+        "name": "Mineral 89",
+        "type": "Serum",
+        "skin_type": "All",
+        "benefits": "تقوية حاجز البشرة وترطيبها بالمعادن",
+        "price_range": "High"
+    },
+    {
+        "brand": "Starville",
+        "name": "Whitening Cream",
+        "type": "Treatment",
+        "skin_type": "All",
+        "benefits": "تفتيح البقع الداكنة وتوحيد لون البشرة",
+        "price_range": "Budget-friendly"
+    },
+    {
+        "brand": "Beesline",
+        "name": "Whitening Roll-On Deodorant",
+        "type": "Body Care",
+        "skin_type": "Sensitive",
+        "benefits": "تفتيح منطقة الإبط وحمايتها",
+        "price_range": "Medium"
+    },
+    {
+        "brand": "Bobai",
+        "name": "Sunscreen Gel SPF 50",
+        "type": "Sun Protection",
+        "skin_type": "Oily/Combined",
+        "benefits": "حماية من الشمس مع ملمس غير دهني",
+        "price_range": "Budget-friendly"
+    }
+]
